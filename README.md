@@ -3,8 +3,8 @@
 This Next.js and React app displays weather from the [Open-Meteo API](https://open-meteo.com/en/docs).
 
 This app was designed to emulate the following light and darkmode designs:
-<lightmode>
-<darkmode>
+![Light Mode](/public/lightmode.png?raw=true "Light Mode")
+![Dark Mode](/public/darkmode.png?raw=true "Dark Mode")
 
 ## Features
 - Units may be toggled between Celsius/KPH and Fahrenheit/MPH 
